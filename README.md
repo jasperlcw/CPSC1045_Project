@@ -1,1 +1,2 @@
-# CPSC1045_Project
+# Setup
+Clone the repository to your local system. Then run the GameProject.html file.
